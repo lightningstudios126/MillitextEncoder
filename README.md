@@ -10,8 +10,8 @@ My version uses a 2-pixel width for each character and uses a font that I design
 
 Full printable ASCII character set, actual size
 
-![actual size image](https://i.imgur.com/aeifAq4.png)
+![actual size image](https://i.imgur.com/0sR1BCd.png)
 
 Same image, but magnified with phone camera
 
-![magnified image](https://i.imgur.com/okZBPOf.jpg)
+![magnified image](https://i.imgur.com/6hilbvJ.jpg)
